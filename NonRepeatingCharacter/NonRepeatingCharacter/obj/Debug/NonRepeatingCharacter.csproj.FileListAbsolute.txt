@@ -1,0 +1,7 @@
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\NonRepeatingCharacter.exe.config
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\NonRepeatingCharacter.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\NonRepeatingCharacter.pdb
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\NonRepeatingCharacter.csprojAssemblyReference.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\NonRepeatingCharacter.csproj.CoreCompileInputs.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\NonRepeatingCharacter.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\NonRepeatingCharacter.pdb
