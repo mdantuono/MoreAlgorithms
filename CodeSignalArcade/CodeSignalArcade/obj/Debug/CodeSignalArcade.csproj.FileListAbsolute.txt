@@ -1,0 +1,7 @@
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignalArcade\CodeSignalArcade\obj\Debug\CodeSignalArcade.csprojAssemblyReference.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignalArcade\CodeSignalArcade\obj\Debug\CodeSignalArcade.csproj.CoreCompileInputs.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignalArcade\CodeSignalArcade\bin\Debug\CodeSignalArcade.exe.config
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignalArcade\CodeSignalArcade\bin\Debug\CodeSignalArcade.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignalArcade\CodeSignalArcade\bin\Debug\CodeSignalArcade.pdb
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignalArcade\CodeSignalArcade\obj\Debug\CodeSignalArcade.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignalArcade\CodeSignalArcade\obj\Debug\CodeSignalArcade.pdb
