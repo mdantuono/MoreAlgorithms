@@ -25,18 +25,21 @@ namespace StringSimilarities
         static int[] stringSimilarity(string str1, string str2, int strLength)
         {
             List<int> counts = new List<int>();
+            int total = 0;
 
             for (int i = 0; i < strLength; i++)
             {
-                counts.Add((int)str1[i] - str2[i]);
+                counts.Add((int)str2[i] - str1[i]);
             }
 
             foreach(int num in counts)
             {
                 Console.Write(num + " ");
+                total += num;
             }
 
             Console.WriteLine('\n');
+            Console.WriteLine("Total: " + total);
 
             return counts.ToArray();
         }

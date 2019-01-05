@@ -5,3 +5,10 @@ C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\StringSimilarities\StringSimilaritie
 C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\StringSimilarities\StringSimilarities\bin\Debug\StringSimilarities.pdb
 C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\StringSimilarities\StringSimilarities\obj\Debug\StringSimilarities.exe
 C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\StringSimilarities\StringSimilarities\obj\Debug\StringSimilarities.pdb
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignal\StringSimilarities\StringSimilarities\obj\Debug\StringSimilarities.csprojAssemblyReference.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignal\StringSimilarities\StringSimilarities\obj\Debug\StringSimilarities.csproj.CoreCompileInputs.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignal\StringSimilarities\StringSimilarities\obj\Debug\StringSimilarities.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignal\StringSimilarities\StringSimilarities\obj\Debug\StringSimilarities.pdb
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignal\StringSimilarities\StringSimilarities\bin\Debug\StringSimilarities.exe.config
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignal\StringSimilarities\StringSimilarities\bin\Debug\StringSimilarities.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\CodeSignal\StringSimilarities\StringSimilarities\bin\Debug\StringSimilarities.pdb
